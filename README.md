@@ -13,11 +13,11 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I used Kaggle's Titanic Dataset to understand:
+For this project, I used Kaggle's Titanic Dataset to:
 
-1. What factors explain who lived and died on the ship?
-2. How decision trees can reveal how those factors interact
-3. How we can convert those insights into features that are legible to other estimators
+1. Understand what factors explain who lived and died on the ship?
+2. Demonstrate how decision trees can reveal how those factors interact
+3. Show how we can convert those insights into features that are legible to other estimators
 
 ## File Descriptions <a name="files"></a>
 
